@@ -1,4 +1,4 @@
-# C-lang-Student-Managment-System
+# C-lang-Student-Managment-System🎒👨‍💻
 <pre>
 These project is about student managment that helps teachers to managed the students data, like results, marks of students updates &amp; search by your convinience.. 🏫😎
 
